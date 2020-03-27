@@ -1,4 +1,4 @@
-# demo1
+# nuxt-temp
 
 > My classy Nuxt.js project
 
