@@ -1,0 +1,23 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "My classy Nuxt.js project",
+  "author": "王剑勇",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 0.0.0.0 --port 3001",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "babel-plugin-component": "^1.1.1",
+    "element-ui": "^2.13.0",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "nuxt": "^2.0.0",
+    "style-resources-loader": "^1.3.3",
+    "vue-i18n": "^8.15.3"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,50 @@
+//	头部导航栏样式
+@nav_color: #bbb;
+@nav_color_h: #fff;
+
+@font14: 14px;
+
+
+//	基础样式
+.clearfix:after{
+	content:'';
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.clearfix{
+	clear:both;
+	zoom:1;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.overfl{
+	overflow:hidden;
+}
+._box{
+	display: flex;
+	box-orient: vertical;
+}
+.bsizing{
+	box-sizing: border-box;
+}
+.center{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+
+/* 页面动画 */
+.page-enter-active, .page-leave-active {
+  transition: opacity .3s;
+}
+.page-enter, .page-leave-active {
+  opacity: 0;
+}

@@ -1,0 +1,32 @@
+*{
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+html,body{
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif,"微软雅黑";
+}
+
+ul,ol{
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size:100%;
+	font-weight:normal;
+}
+a{
+	text-decoration:none;
+	outline: none;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+}
+header,footer,section,aside,nav,hgroup,figure,figcaption{
+	display:block;
+	border:none;
+}
+:focus { 
+    outline: 0; 
+}
