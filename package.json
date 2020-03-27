@@ -1,8 +1,8 @@
 {
-  "name": "demo1",
+  "name": "nuxt-temp",
   "version": "1.0.0",
   "description": "My classy Nuxt.js project",
-  "author": "王剑勇",
+  "author": "Jianyong Wang",
   "private": true,
   "scripts": {
     "dev": "nuxt --hostname 0.0.0.0 --port 3001",
