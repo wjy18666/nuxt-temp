@@ -1,4 +1,4 @@
-# nuxt-temp
+# nuxt-temp 简单国际化 
 
 > My classy Nuxt.js project
 
